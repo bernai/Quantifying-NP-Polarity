@@ -1,0 +1,300 @@
+exclusive broadcasting rights	0.7032562126416992
+Spirit awards hail	0.56049424622579
+the Grammy Awards presentation	0.5321291497044088
+A few benefactors	0.5150831184095259
+a great admirer	0.498846631280972
+best musical score	0.49182863903430873
+a beautiful piece	0.472962648707087
+best pop video	0.45911171321649297
+Other Christmas specials	0.45385999744857314
+the children's fiction award	0.4520182682335726
+best film nominees	0.43906437709501606
+flautist James Newton's Choir	0.4348406914430434
+a 6,000-strong Entertainment Weekly magazine panel	0.4291918757666875
+One World Project	0.4203293143468175
+a prominent figure	0.4010000384345074
+best rock song	0.3793369560021537
+a close relationship	0.3602364806074036
+An American version	0.35731895017122095
+The Screen Actors Guild	0.3561935151801181
+The actor's friend	0.3458246007979876
+a Latin pop star	0.34578978787979675
+best TV comedy show	0.337097022292749
+Fox's prime-time audience	0.33541258470203905
+the best documentary	0.33353457997496677
+another first-time winner	0.33214340185786156
+any such agreement	0.33011366542253284
+an inner city	0.3285505292912925
+The plain green Norway spruce	0.31501758007512215
+The Fantastic Four	0.3147610388884251
+a useful meeting	0.3084585387917136
+Golden Globe awards	0.3083080586752986
+best international band	0.30578680010784265
+an international bestseller	0.3029921615080548
+a popular song	0.30207394646496627
+The new picture	0.2975941985461084
+La Fenice Viotti	0.2963541012313971
+the famous Grauman's Chinese Theatre	0.29380088584037173
+The stage adaptation	0.2921736110905036
+best rock vocal performance	0.2823116140409301
+film chart crown	0.27925798565353166
+superstar rapper Jay-Z	0.2779197539854106
+Legendary music studio	0.2749580258366144
+a prestigious Golden Globe	0.27175955469114366
+The international male and female prizes	0.27160701576467583
+The 41-year-old chart-topper	0.26858697100878
+The Onyx Hotel tour	0.267098799194353
+the world's leading independent film festival	0.266688803291638
+a dinner party	0.2634116507620766
+few other lead roles	0.26184218753305316
+the most influential artists	0.2615771732503623
+the marvellous, wonderful and talented Claire Kember	0.2612815414398608
+summer stadium gigs	0.26089998873179554
+The 21-year-old singer	0.25589361144289663
+a fun night	0.2555815655604878
+the biggest and most prestigious film event	0.24788340387366636
+a feature film	0.24758398550550376
+John Guy's The Life	0.2469915854107222
+a major science conference	0.24590980842978527
+the extraordinary filmmaker	0.24486732073773185
+a political and spiritual band	0.24369865907246277
+The Oscars nominations list	0.24198974083463287
+- Best new musical - The Producers	0.2415046346442653
+a government grant	0.24021392436209377
+best British album	0.2396649331708657
+the One World name	0.23835110817764532
+mundane, everyday subjects	0.23787994448001085
+All this "urban" and other such categorisation	0.23458829278075588
+a movie version	0.2289612348277717
+The "performance capture" technique	0.22727355503373414
+The first instalment	0.22473363901435411
+the gospel fervour	0.2200212397734878
+her best actress nomination	0.2190323498190328
+The US band	0.21661165842541896
+the most important guitarists	0.21202968342483408
+Hughes' 1943 film	0.21038345396023217
+Hailey's best-loved work	0.20963288387729997
+The royal couple	0.20796833024154862
+Irish rock band U2	0.20719502284560373
+Homegrown reality programmes	0.2069483215737444
+other medical personnel	0.20442520491956134
+The fan letters	0.20046080137334824
+The film's distributor Toho	0.1971982146395431
+the best Scottish band	0.19499074118108356
+The remaining members	0.1943511809622012
+The main players	0.19004054630356024
+the MOBO Awards	0.18659309735191776
+a really sort of mature album	0.18598849663359007
+an hour-long show	0.18259664247095428
+costume designer Alexandra Byrne	0.17973280012612805
+the sly charm	0.1786147777889694
+all the top venues	0.17701329373813876
+a more discreet angle	0.1769695447881547
+best Irish pop act	0.17647757154930926
+Friday - 67%	0.17492693235052006
+the world documentary category	0.1744128759859945
+Their double CD album	0.17404877526351298
+most rock bands	0.17387436148658036
+All my best efforts	0.1736211123176659
+A Beautiful Mind's Ron Howard	0.17035914527049595
+a real actor	0.16728103253604024
+a festive landscape	0.16373820016995375
+The American Film Institute	0.16285844855130807
+the Music Managers' Forum	0.16216897424606935
+the silver screen	0.15968007189261452
+a real person	0.15937484403665306
+a much more serious, sensitive role	0.15844767111430566
+their self-titled release	0.15751551311941442
+Their self-titled album	0.15673658033088572
+BBC Two's offering	0.15493851985672108
+New Line Cinema	0.15474206865378498
+the wizard series	0.15218832925313586
+our new gig	0.1498793402474583
+The 98th and final episode	0.14647642242527134
+the Park festival	0.14192307681384173
+the free party	0.14122401736035878
+a new level	0.14110183129623194
+the 2005 Sundance Film Festival	0.13201772263521508
+a critical part	0.13137657398306052
+around 10 singers	0.12840528863581774
+the country arena	0.12683518754496093
+No UK premiere	0.12465868728708879
+Earlier British costume designer Sandy Powell	0.12318313341588166
+the same name	0.12129087561237403
+his stand-up routines	0.12086095238953787
+a 11-day run	0.12036405110357373
+The Great British Public	0.11742227294998658
+Da Vinci film	0.11704671953672374
+EastEnders' head writer	0.11672600023992305
+a giant step	0.11601805545401819
+UK's National Gallery	0.1158097202495405
+A BBC spokeswoman	0.1142852914221418
+16 million viewers	0.11273798400866025
+the sealed envelope system	0.11255612558308269
+more than seven million copies	0.11185062254226852
+London's Tate Britain art gallery	0.10983888389550918
+the biggest shake-up	0.10929067576032223
+the programme's chief co	0.10854000940474709
+a leading industry figure	0.10217615719805942
+this year's line-up	0.09979209045381078
+the other artists	0.09892320437957121
+just 1.6bn euros	0.09519059961931156
+The Muslim Council	0.09262900952809328
+the cable music channel	0.09218543986051084
+modern TV programmes	0.09157538609211269
+The American forensics expert	0.0905448867294409
+the Director's Guild	0.08822435573173831
+a tight orange top and purple hotpants	0.08536771625608547
+the US' second best-selling DVD	0.08525786002795908
+two other New York DJs	0.08482400077230208
+the unscripted side	0.08482046252236553
+the Riverside Church	0.08391760028550746
+a cinema ticket	0.08340710081858792
+an aspiring rapper	0.08068194976028337
+some World Cup-winning players	0.0796676037223648
+unpaid work experience	0.07466093598102586
+the "beautiful legacy	0.07415128532722329
+just the sidekick	0.07218217092914583
+the Oscar field	0.07097084783303043
+the main honours	0.06963753291888437
+Hey There, Small Talk and Steam Heat	0.06851686605200319
+a time slot	0.06723631277743486
+Pete Doherty's band Babyshamblers	0.06709630273574424
+the Broadway revival	0.06687979855973222
+the 2004 Evening Standard British Film Awards	0.06526146788730236
+national best-seller lists	0.06213353588876741
+Joy Division - Love	0.058516989472945535
+the World Trade Center	0.05392770452788753
+The 10-day Dutch festival	0.05368172270155644
+his 15th Brit award	0.053469420124946404
+all the stops	0.053392424058089916
+the final choice	0.05224628513457538
+the new roles	0.0494183232592936
+the "cheapest form	0.04817659648134259
+Sizzla's five-date UK tour	0.04333653759998196
+the sensitive emotions	0.041717576020042835
+two Olivier Awards	0.037699186871824386
+just more evidence	0.0348550093377053
+her deliciously neurotic portrayal	0.03472708561586507
+whose Oscar nomination	0.03435577400436657
+the five films	0.03229730549594689
+their eighth studio album	0.03135388130014355
+The only people	0.024141617160956863
+Co-star Richard Gere	0.021242611767609554
+chief executive officer John Woodward	0.019807519583722732
+R&B star Jamelia	0.017468572668516397
+his outspoken views	0.015161754439409425
+virtually all US homes	0.013320500413696201
+two different films	0.010898433715533562
+the Hellblazer comics	0.005929720585984927
+the night's biggest shocks	0.004502430828749682
+about forbidden love	0.0019388118453103897
+a murder case	0.0004497125297147908
+director Roger DeBris	-0.0026667568854597534
+the Citreon C4 advert	-0.004209122887439964
+the late rock legend	-0.0047736810088180315
+the final film	-0.00846809066396556
+The Small Faces	-0.008757903709848719
+two further Grammys	-0.009138557983033396
+the prosecution's first witness	-0.011297745136179954
+the Sun Willis	-0.014279966424125906
+the deep south Baptist church	-0.014610352711089986
+the Olivier Awards	-0.014802896682045208
+the new shows	-0.015612568193357712
+Last year's Meltdown festival	-0.01697002118056637
+the international categories	-0.017943946927013565
+1985's Live Aid	-0.018131043709905204
+its BBC One rival EastEnders	-0.01881806278549389
+the musical's fifth anniversary celebrations	-0.019623628298041595
+Last Star Wars	-0.020961261803487674
+UK Directors Guild nominees	-0.02181171260219028
+the late 80s	-0.02324491115689703
+record box office revenue	-0.023775083837844102
+Van Gogh's other films	-0.026383153799713677
+its radio stations	-0.027565851740514014
+Scottish rock band Franz Ferdinand	-0.030015795733261796
+chart-topping singer George Michael	-0.030050643649487147
+the Rock and Roll Hall	-0.031848741803828795
+'worst TV import	-0.03209946159533905
+US red tape	-0.033204870158365374
+the recording studio	-0.039347256295437866
+The bottom line	-0.041676692543783644
+the next move	-0.04656541244202966
+the channel retreat	-0.046945782106848216
+the Half-Blood Prince	-0.05539670366931185
+box office tracker Exhibitor Relations	-0.05642793580725414
+their second chart	-0.05790738730214334
+the international stage	-0.0639298174691173
+the UK download chart	-0.06506223104042785
+both Joy Division	-0.0662192156036639
+Big budget co	-0.06865371200954606
+his "sensational start	-0.06916904358090342
+US cinema summit	-0.07527183990497449
+his former recording studio	-0.075938128141387
+too much nudity	-0.07879722020121199
+the first combined UK download	-0.07928731602097666
+the Royal College	-0.08144682879072668
+soulman James Brown	-0.08232627432778461
+scientist Stephen Hawking	-0.08356471428897488
+the Neverland ranch	-0.08677645165419617
+Jude Law film Closer	-0.08723635594363927
+last year's Oscars	-0.09028750807317093
+Contestants Paul Burrell	-0.09882671286822015
+his three bandmates	-0.09989514538499317
+a long-running saga	-0.10198908063794299
+Swedish artist Niklas Stromstedt	-0.10344508162888627
+senior production executives	-0.10489418751819657
+all the people	-0.10738486274208531
+early European conquerors	-0.12099729681885468
+the Lebanese capital	-0.12211741739563392
+the entire dinosaur	-0.12346413781009918
+the next independent hits	-0.12408588217718286
+Comic Joe Pasquale	-0.1251317557250387
+Oscar-winner Andrea Arnold	-0.1255667390357561
+the tsunami relief effort	-0.12586940250612283
+Big Brother 'leak	-0.12703328249340573
+Child labour laws	-0.13417118351825208
+the Prime Minister	-0.13493634762401485
+Actor Rodrigo de la Serna	-0.13595970207757563
+the Godfather film	-0.13900291330354486
+a surprise eviction	-0.14211905601560088
+America's "culture wars	-0.14443551993324694
+his liver and cholesterol levels	-0.1449575963141177
+the music industry	-0.14704500955561084
+singer Jane Birkin	-0.14733044041191573
+his original UK chart-toppers	-0.14901287794332113
+either Joy Division	-0.15005703646528878
+sarin nerve gas	-0.1502348784330681
+the coming months	-0.15694682486200068
+The Manic Street Preachers	-0.15788096224768272
+his movie career	-0.15890607159288367
+UK author Diana Wynne Jones	-0.16131004598784315
+her international career	-0.16458717399244965
+his "deplorable actions	-0.17217074762718138
+two Golden Globes	-0.1764399226454439
+British actor Toby Stephens	-0.1955861074684278
+the UK record industry	-0.20695661328423104
+This whole debate	-0.21468580863385767
+the Observer's Philip French	-0.22904133534291254
+the wrong side	-0.23350866207259435
+Its two-day takings	-0.24007918141985712
+the nascent UK	-0.25670561134734066
+his LA home	-0.25744966094804483
+District Attorney Bruce L Castor Jr	-0.26844448887607175
+50 Cent topped Sound	-0.27008279018313336
+his best-known hit	-0.27575351494831424
+the scheduled fourth eviction	-0.28346217531054746
+his unmistakable stamp	-0.2889977036433975
+his wife's colon cancer	-0.30352537037565236
+President George W Bush	-0.3075061118668247
+Chief Judge Mary Schroeder	-0.33973373729389905
+the British Phonographic Industry	-0.37621515750138906
+screenwriter Peter Briggs	-0.3942508280562282
+Britain's shabby tabby	-0.4020393250093443
+the sentencing judge	-0.42448337357789984
+a siege mentality	-0.43758786076856265
+the evil Darth Vader	-0.47029802191930276
+Director Quentin Tarantino	-0.4945656312388495
+his second alleged violation	-0.5452892006940571
+his traumatic past	-0.5649117765678797
+African famine relief	-0.6310402545147156

@@ -1,0 +1,36 @@
+w2vec 
+
+linear 
+kendall: 0.5555071845528176	 pvalue: 0.0
+spearman: 0.7591694197068005	pvalue: 0.0 
+
+mlp 
+kendall: 0.5356146420970502	 pvalue: 0.0
+spearman: 0.7343837303404492	pvalue: 0.0 
+
+knn 
+kendall: 0.4047503307351102	 pvalue: 9.008591047926105e-259
+spearman: 0.5531862413385021	pvalue: 1.4767450325420902e-256 
+
+svr 
+kendall: 0.5564155997650958	 pvalue: 0.0
+spearman: 0.7534861601021207	pvalue: 0.0 
+
+
+fasttext 
+
+linear 
+kendall: 0.4376485779216977	 pvalue: 3.503267475695192e-302
+spearman: 0.6240830691985384	pvalue: 0.0 
+
+mlp 
+kendall: 0.46596623379806457	 pvalue: 0.0
+spearman: 0.6524397126810171	pvalue: 0.0 
+
+knn 
+kendall: 0.4893905078585696	 pvalue: 0.0
+spearman: 0.6774545245562994	pvalue: 0.0 
+
+svr 
+kendall: 0.4528667697241355	 pvalue: 0.0
+spearman: 0.6346718528086139	pvalue: 0.0 

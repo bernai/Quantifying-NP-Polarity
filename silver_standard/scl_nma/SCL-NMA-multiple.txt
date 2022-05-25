@@ -1,0 +1,1586 @@
+particularly happy	0.944
+highly successful	0.944
+so successful	0.944
+most successful	0.905
+very attractive	0.889
+quite special	0.889
+really good	0.889
+very very happy	0.889
+very very good	0.889
+very very special	0.889
+really successful	0.875
+extremely nice	0.875
+very proud	0.875
+really enjoy	0.875
+very successful	0.861
+really great	0.861
+very happy	0.861
+so great	0.861
+most happy	0.861
+was so happy	0.847
+very special	0.847
+especially good	0.847
+extremely good	0.847
+extremely happy	0.847
+extremely attractive	0.841
+was very happy	0.841
+more pleased	0.833
+most good	0.833
+very nice	0.833
+extremely pleased	0.833
+so happy	0.819
+was more fun	0.819
+really happy	0.819
+so helpful	0.819
+was very nice	0.806
+more fun	0.806
+was so great	0.806
+highly attractive	0.806
+so pleased	0.806
+was really pleased	0.792
+quite funny	0.792
+was very proud	0.792
+was very pleased	0.792
+quite helpful	0.792
+very fair	0.792
+very pleased	0.778
+really love	0.778
+was so successful	0.778
+extremely helpful	0.778
+really fun	0.778
+very safe	0.778
+was quite happy	0.778
+was very attractive	0.778
+quite fun	0.778
+highly effective	0.778
+very useful	0.764
+rather nice	0.764
+quite happy	0.764
+would be great	0.75
+very good	0.75
+was so proud	0.75
+particularly good	0.75
+certainly good	0.75
+highly accurate	0.75
+was so nice	0.75
+was very successful	0.75
+was really good	0.75
+was really nice	0.75
+very helpful	0.736
+pretty nice	0.736
+was very good	0.736
+more successful	0.736
+more love	0.736
+so nice	0.736
+most special	0.736
+quite enjoy	0.736
+quite proud	0.722
+really nice	0.722
+really pleased	0.722
+extremely proud	0.722
+most useful	0.722
+particularly effective	0.722
+more attractive	0.722
+especially interested	0.722
+quite pleased	0.714
+really special	0.708
+too pleased	0.708
+very complete	0.708
+was so good	0.708
+particularly great	0.708
+was really proud	0.708
+rather special	0.708
+extremely useful	0.708
+more right	0.708
+was quite nice	0.708
+very very nice	0.708
+most popular	0.698
+more happy	0.698
+was quite fun	0.694
+so attractive	0.694
+so safe	0.694
+was very keen	0.694
+too happy	0.685
+very popular	0.683
+was very funny	0.681
+much hope	0.681
+extremely effective	0.681
+particularly special	0.681
+so special	0.681
+much more useful	0.681
+highly popular	0.681
+much love	0.681
+very funny	0.667
+quite important	0.667
+really understand	0.667
+particularly attractive	0.667
+quite good	0.667
+especially useful	0.667
+especially popular	0.667
+can be successful	0.667
+can enjoy	0.667
+was more appropriate	0.667
+quite nice	0.667
+so proud	0.667
+was really funny	0.667
+very significant	0.667
+so right	0.667
+rather proud	0.667
+more hope	0.667
+highly suitable	0.667
+never better	0.667
+was so easy	0.667
+might be good	0.653
+very very funny	0.653
+very great	0.653
+extremely popular	0.653
+really useful	0.653
+highly significant	0.653
+quite useful	0.653
+much more fun	0.653
+rather pleased	0.653
+extremely significant	0.651
+really funny	0.651
+can be good	0.651
+must be love	0.651
+most effective	0.639
+very keen	0.639
+was so funny	0.639
+was quite good	0.639
+most helpful	0.639
+so interested	0.639
+was so interested	0.639
+certainly better	0.639
+more great	0.639
+should benefit	0.625
+would be nice	0.625
+was so pleased	0.625
+particularly pleased	0.625
+very accurate	0.625
+extremely successful	0.625
+so significant	0.625
+was very great	0.625
+very easy	0.619
+very able	0.611
+most attractive	0.611
+most benefit	0.611
+extremely interested	0.611
+would be fun	0.611
+most enjoy	0.611
+quite successful	0.611
+rather funny	0.611
+particularly nice	0.611
+quite right	0.611
+really proud	0.603
+highly relevant	0.603
+must love	0.597
+very interested	0.597
+should hope	0.597
+increasingly popular	0.597
+relatively easy	0.597
+fairly good	0.597
+most fun	0.597
+so effective	0.597
+more good	0.597
+was particularly interested	0.597
+much fun	0.597
+would be very helpful	0.597
+can be great	0.597
+would be very pleased	0.597
+relatively successful	0.583
+much good	0.583
+rather good	0.583
+was more effective	0.583
+highly important	0.583
+particularly helpful	0.583
+more special	0.583
+fairly easy	0.583
+may agree	0.583
+was quite easy	0.583
+should enjoy	0.583
+would enjoy	0.571
+increasingly attractive	0.569
+must be good	0.569
+much more successful	0.569
+extremely keen	0.569
+especially attractive	0.569
+was particularly successful	0.569
+was particularly pleased	0.556
+was very effective	0.556
+so allow	0.556
+more significant	0.556
+more popular	0.556
+more easy	0.556
+so popular	0.556
+should be fun	0.556
+would be safe	0.556
+was particularly true	0.556
+certainly right	0.556
+especially important	0.542
+certainly important	0.542
+was very fair	0.542
+should love	0.542
+very effective	0.542
+was more important	0.542
+was so real	0.542
+most significant	0.542
+should be proud	0.542
+particularly successful	0.54
+most interest	0.54
+would be very good	0.54
+especially true	0.54
+probably good	0.528
+really effective	0.528
+most proud	0.528
+could be happy	0.528
+much useful	0.528
+might be appropriate	0.528
+really help	0.528
+really safe	0.528
+particularly suitable	0.528
+more pay	0.528
+was very popular	0.528
+might enjoy	0.528
+can be free	0.528
+much more accurate	0.528
+can be proud	0.528
+should be helpful	0.528
+much more attractive	0.528
+was quite interested	0.528
+may be happy	0.528
+would be able	0.524
+can provide	0.524
+so funny	0.524
+much more effective	0.524
+should be easy	0.514
+really care	0.514
+quite significant	0.514
+would be easy	0.514
+more interested	0.514
+would be very happy	0.514
+most important	0.514
+so easy	0.514
+may be suitable	0.514
+much benefit	0.514
+much popular	0.514
+more independent	0.514
+should be pleased	0.514
+could be proud	0.508
+might be able	0.5
+rather attractive	0.5
+most complete	0.5
+especially effective	0.5
+quite sufficient	0.5
+must be true	0.5
+was quite safe	0.5
+would be very interested	0.5
+particularly proud	0.5
+so keen	0.5
+particularly useful	0.5
+extremely important	0.5
+really keen	0.5
+quite attractive	0.5
+might be interested	0.492
+most appropriate	0.486
+was really interested	0.486
+really hope	0.486
+would be pleased	0.486
+much help	0.486
+should be free	0.486
+would be good	0.486
+much interested	0.486
+really understood	0.486
+could love	0.486
+should be nice	0.486
+might be useful	0.486
+pretty easy	0.486
+was too good	0.486
+was more successful	0.486
+pretty fair	0.476
+would support	0.472
+fairly happy	0.472
+was very useful	0.472
+very very careful	0.472
+can support	0.472
+most responsible	0.472
+would be proud	0.472
+increasingly familiar	0.472
+much right	0.472
+much more interested	0.472
+really important	0.472
+must be pleased	0.472
+quite accurate	0.472
+very appropriate	0.463
+particularly significant	0.46
+would benefit	0.458
+most suitable	0.458
+particularly easy	0.458
+relatively good	0.458
+quite able	0.458
+more true	0.458
+can be significant	0.458
+would be effective	0.458
+may be attractive	0.458
+more able	0.458
+more keen	0.458
+pretty good	0.458
+was quite pleased	0.458
+probably better	0.458
+more suitable	0.458
+might benefit	0.458
+extremely easy	0.458
+so complete	0.458
+was very careful	0.458
+most accurate	0.458
+pretty safe	0.444
+particularly popular	0.444
+should be relevant	0.444
+was quite funny	0.444
+particularly keen	0.444
+rather important	0.444
+very suitable	0.444
+so fair	0.444
+really relevant	0.444
+was more popular	0.444
+quite free	0.444
+really interested	0.444
+should be good	0.444
+most support	0.444
+very relevant	0.444
+much better	0.444
+so familiar	0.444
+very true	0.431
+could lead	0.431
+was particularly proud	0.431
+very very important	0.431
+was very easy	0.431
+would be very easy	0.431
+increasingly effective	0.431
+must be worth	0.431
+can free	0.431
+more accurate	0.431
+could be worth	0.431
+would agree	0.429
+was too great	0.429
+most help	0.429
+relatively happy	0.417
+may be appropriate	0.417
+might be nice	0.417
+can accept	0.417
+too successful	0.417
+much interest	0.417
+really easy	0.417
+was very real	0.417
+really fit	0.417
+quite appropriate	0.417
+very independent	0.417
+was so important	0.417
+really true	0.417
+most relevant	0.417
+can be worth	0.413
+could allow	0.413
+very right	0.413
+especially significant	0.413
+certainly worth	0.403
+can be helpful	0.403
+not trouble	0.403
+was particularly good	0.403
+can be true	0.403
+quite safe	0.403
+could enjoy	0.403
+can hope	0.403
+would be very useful	0.403
+might agree	0.403
+must enjoy	0.403
+was very interested	0.403
+can be fun	0.403
+quite familiar	0.403
+especially suitable	0.403
+so important	0.403
+too easy	0.403
+really worth	0.397
+quite fit	0.397
+must hope	0.389
+quite popular	0.389
+nothing better	0.389
+more familiar	0.389
+would love	0.389
+quite interested	0.389
+can understand	0.389
+have no doubt	0.389
+would be useful	0.389
+can love	0.389
+very real	0.389
+must be safe	0.389
+relatively safe	0.389
+would fit	0.381
+more safe	0.381
+increasingly interested	0.381
+could be useful	0.375
+more fit	0.375
+particularly interested	0.375
+most interested	0.375
+more sensitive	0.375
+much care	0.375
+more effective	0.375
+more helpful	0.375
+would know	0.375
+so good	0.375
+especially relevant	0.375
+cannot fail	0.365
+must allow	0.365
+may be free	0.361
+more interest	0.361
+may help	0.361
+highly appropriate	0.361
+would be right	0.361
+so real	0.361
+could complete	0.361
+most real	0.361
+very fit	0.361
+very important	0.361
+quite independent	0.361
+could be free	0.361
+might love	0.361
+was more interested	0.349
+certainly true	0.347
+more relevant	0.347
+may benefit	0.347
+too nice	0.347
+more benefit	0.347
+certainly agree	0.347
+does not hurt	0.347
+might better	0.347
+certainly know	0.347
+much more important	0.347
+was very important	0.347
+may lead	0.347
+can be useful	0.347
+was particularly keen	0.347
+no harm	0.333
+quite agree	0.333
+most independent	0.333
+much support	0.333
+would have been nice	0.333
+very responsible	0.333
+could hope	0.333
+can care	0.333
+too good	0.333
+could be helpful	0.333
+increasingly significant	0.333
+can benefit	0.333
+may be helpful	0.333
+more support	0.333
+more complete	0.333
+can help	0.333
+might need	0.333
+would be happy	0.333
+so free	0.333
+too true	0.319
+did not trouble	0.319
+most able	0.319
+would lead	0.319
+will not lose	0.319
+was quite right	0.319
+will not fail	0.319
+would complete	0.319
+would be responsible	0.319
+may be relevant	0.319
+too important	0.317
+relatively free	0.317
+really significant	0.317
+not too expensive	0.317
+must accept	0.306
+particularly appropriate	0.306
+would be helpful	0.306
+quite keen	0.306
+may be true	0.306
+very careful	0.306
+most familiar	0.306
+probably right	0.302
+quite true	0.302
+must be important	0.296
+certainly hope	0.292
+quite understand	0.292
+may be easy	0.292
+increasingly important	0.292
+should be sufficient	0.292
+no trouble	0.292
+did not fail	0.292
+would be true	0.292
+would accept	0.292
+should help	0.292
+more care	0.292
+will not be lost	0.292
+cannot lose	0.286
+would have been happy	0.286
+quite understood	0.278
+more important	0.278
+might be fun	0.278
+never afraid	0.278
+was no trouble	0.278
+can agree	0.278
+must be real	0.278
+might be better	0.278
+must understand	0.278
+too keen	0.27
+most careful	0.27
+much more significant	0.27
+might be important	0.264
+so care	0.264
+could be right	0.264
+may fair	0.264
+not expensive	0.264
+no hard	0.264
+cannot break	0.264
+could be significant	0.264
+would have been good	0.264
+rather better	0.254
+rather complex	0.254
+may be effective	0.254
+fairly important	0.254
+no wrong	0.25
+would free	0.25
+can be important	0.25
+must be fair	0.25
+fairly successful	0.25
+would be attractive	0.25
+would provide	0.25
+too great	0.25
+had no trouble	0.25
+would be appropriate	0.25
+was so keen	0.25
+so fit	0.25
+would have been pleased	0.238
+should allow	0.238
+should be independent	0.238
+may accept	0.236
+would need	0.236
+more help	0.236
+may interest	0.236
+more free	0.236
+may provide	0.236
+must be right	0.236
+would be worth	0.236
+can fit	0.236
+can be funny	0.236
+more appropriate	0.236
+so useful	0.236
+was no harm	0.236
+would be interested	0.236
+was not ill	0.236
+would have been proud	0.236
+not dangerous	0.236
+can complete	0.222
+can pay	0.222
+will not be difficult	0.222
+could interest	0.222
+was very helpful	0.222
+would be important	0.222
+would understand	0.222
+was not difficult	0.222
+particularly important	0.222
+would pay	0.222
+may be useful	0.222
+would be successful	0.222
+would be fair	0.222
+much free	0.222
+never lost	0.222
+must be understood	0.222
+quite easy	0.222
+so careful	0.222
+could better	0.222
+was not lost	0.222
+might understand	0.208
+can be understood	0.208
+not too serious	0.208
+very familiar	0.208
+could provide	0.208
+no doubt	0.208
+quite effective	0.208
+was not wrong	0.208
+will not hurt	0.206
+must be nice	0.206
+may not know	0.206
+could pay	0.194
+so true	0.194
+might be helpful	0.194
+must help	0.194
+should interest	0.194
+did not harm	0.194
+more useful	0.194
+more real	0.194
+did not break	0.194
+could not hurt	0.194
+must be free	0.194
+not worse	0.194
+may be important	0.194
+should lead	0.194
+would not lose	0.194
+must be independent	0.19
+would not be difficult	0.19
+too popular	0.185
+was very sensitive	0.181
+may hope	0.181
+must agree	0.181
+never fail	0.181
+was more accurate	0.181
+should agree	0.181
+fairly safe	0.181
+can lead	0.181
+can be responsible	0.181
+less trouble	0.181
+would have been interested	0.181
+could understand	0.181
+was too important	0.181
+could not fail	0.181
+probably responsible	0.181
+would be free	0.181
+was no doubt	0.181
+should understand	0.181
+particularly true	0.181
+most need	0.175
+does not trouble	0.175
+will not upset	0.167
+should complete	0.167
+will not trouble	0.167
+was so popular	0.167
+probably worth	0.167
+does not doubt	0.167
+may care	0.167
+must be responsible	0.167
+was particularly important	0.167
+could not know	0.167
+could benefit	0.159
+not ill	0.159
+may be real	0.159
+would matter	0.159
+less difficult	0.159
+may independent	0.153
+would be better	0.153
+could be understood	0.153
+not upset	0.153
+may be good	0.153
+not break	0.153
+could free	0.153
+may know	0.153
+would be complete	0.153
+might interest	0.153
+probably need	0.153
+particularly relevant	0.153
+would be very nice	0.143
+may be sufficient	0.143
+should be useful	0.143
+could know	0.139
+too proud	0.139
+should be complete	0.139
+relatively independent	0.139
+should be interested	0.139
+must be accurate	0.139
+can better	0.139
+can be happy	0.139
+could not wait	0.139
+really know	0.139
+would help	0.139
+not too hard	0.139
+was too easy	0.139
+might help	0.139
+might lead	0.139
+must be appropriate	0.127
+must be sufficient	0.127
+would be keen	0.125
+might pay	0.125
+really matter	0.125
+was not hurt	0.125
+so lead	0.125
+too free	0.125
+could be true	0.125
+was not afraid	0.125
+would be significant	0.125
+was so familiar	0.125
+may be worth	0.125
+might accept	0.125
+must be careful	0.111
+not hard	0.111
+not afraid	0.111
+can be safe	0.111
+may be right	0.111
+extremely careful	0.111
+was not dangerous	0.111
+should be safe	0.111
+can allow	0.111
+could be effective	0.111
+really serious	0.111
+more responsible	0.111
+no bad	0.111
+could not break	0.111
+should support	0.111
+would have been sufficient	0.111
+very matter	0.097
+was not bad	0.097
+never lose	0.097
+too right	0.097
+may enjoy	0.097
+should be worth	0.097
+would be fit	0.097
+so help	0.097
+probably true	0.097
+no ill	0.097
+would care	0.097
+would have been easy	0.097
+should wait	0.097
+would hope	0.095
+much more sensitive	0.095
+would allow	0.095
+less serious	0.095
+would not be complete	0.095
+should provide	0.083
+might fit	0.083
+does not lose	0.083
+does not break	0.083
+less expensive	0.083
+less complex	0.083
+could agree	0.083
+relatively short	0.083
+may be interested	0.083
+not hurt	0.083
+may be significant	0.083
+did not lose	0.083
+does not fail	0.083
+could be good	0.083
+will not need	0.083
+was not stupid	0.083
+might hope	0.083
+not too bad	0.079
+should be true	0.079
+not stupid	0.069
+nothing wrong	0.069
+so need	0.069
+should be fit	0.069
+should be better	0.069
+was no need	0.069
+must provide	0.069
+would be suitable	0.063
+may be better	0.063
+does not harm	0.063
+must be familiar	0.063
+relatively complex	0.056
+fairly complete	0.056
+should be right	0.056
+might provide	0.056
+not bad	0.056
+not serious	0.056
+could help	0.056
+too need	0.056
+would not be better	0.056
+must be relevant	0.056
+might wait	0.056
+more expensive	0.056
+could doubt	0.056
+should be responsible	0.048
+quite expensive	0.042
+would not fail	0.042
+too interested	0.042
+can wait	0.042
+must complete	0.042
+would not know	0.042
+really need	0.042
+was not serious	0.042
+most expensive	0.037
+may be able	0.032
+certainly need	0.028
+did not hurt	0.028
+should need	0.028
+would have been better	0.028
+should be able	0.028
+too real	0.028
+would not break	0.028
+would have been appropriate	0.028
+might allow	0.028
+can know	0.028
+have no trouble	0.028
+would be wrong	0.028
+no matter	0.028
+more complex	0.028
+nothing special	0.028
+should be happy	0.016
+might know	0.016
+not poor	0.016
+never short	0.016
+not easy	0.014
+may be familiar	0.014
+have no special	0.014
+must be easy	0.014
+would better	0.014
+may not matter	0.014
+very sensitive	0.014
+may need	0.014
+may be understood	0.014
+particularly careful	0.014
+no poor	0.014
+was no worse	0.014
+must support	0.014
+would interest	0.014
+would not harm	0
+less hard	0
+must know	0
+would be serious	0
+would not hurt	0
+could be important	0
+should know	0
+must wait	0
+should accept	0
+may be responsible	0
+not wrong	0
+no worse	0
+very short	0
+was not hard	0
+nothing serious	0
+not wait	-0.014
+more careful	-0.014
+particularly sensitive	-0.014
+might be right	-0.014
+fairly accurate	-0.014
+might be relevant	-0.014
+relatively expensive	-0.014
+not too difficult	-0.014
+so sensitive	-0.014
+must lead	-0.014
+cannot wait	-0.016
+should care	-0.028
+fairly expensive	-0.028
+might be worth	-0.028
+will not break	-0.028
+not lost	-0.028
+could support	-0.028
+no serious	-0.028
+was not short	-0.028
+may not need	-0.032
+probably fair	-0.032
+less sensitive	-0.042
+really expensive	-0.042
+was no better	-0.042
+should fit	-0.042
+might be true	-0.042
+never need	-0.042
+had no doubt	-0.042
+more need	-0.042
+fairly complex	-0.042
+may fit	-0.042
+was very serious	-0.042
+should be familiar	-0.042
+really short	-0.042
+not lose	-0.042
+not too low	-0.042
+can be expensive	-0.042
+will not matter	-0.042
+most sensitive	-0.048
+less popular	-0.048
+less interest	-0.056
+cannot hurt	-0.056
+could be responsible	-0.056
+could not lose	-0.056
+less independent	-0.056
+no know	-0.056
+could accept	-0.056
+will not harm	-0.056
+nothing short	-0.056
+would be sufficient	-0.056
+should be fair	-0.056
+does not benefit	-0.056
+does not know	-0.063
+was no easy	-0.063
+no wait	-0.069
+was not real	-0.069
+could be serious	-0.069
+could need	-0.069
+would not wait	-0.069
+more serious	-0.069
+might upset	-0.069
+could not fit	-0.069
+might support	-0.069
+could fit	-0.069
+would have been helpful	-0.069
+not matter	-0.079
+not free	-0.079
+was not able	-0.079
+would have been able	-0.079
+must fit	-0.083
+should be understood	-0.083
+not difficult	-0.083
+might be suitable	-0.083
+less complete	-0.095
+not familiar	-0.095
+had no great	-0.097
+might be sufficient	-0.097
+might be hard	-0.097
+not funny	-0.097
+may pay	-0.097
+may allow	-0.097
+would have been worth	-0.097
+should pay	-0.097
+would have been difficult	-0.097
+was no effective	-0.097
+would have been useful	-0.097
+did not doubt	-0.097
+too familiar	-0.111
+so provide	-0.111
+could be better	-0.111
+never easy	-0.111
+not sensitive	-0.111
+less keen	-0.111
+can be serious	-0.111
+was so low	-0.111
+highly sensitive	-0.111
+rather familiar	-0.111
+especially sensitive	-0.111
+quite short	-0.111
+less suitable	-0.111
+particularly complex	-0.111
+may understand	-0.111
+not lead	-0.111
+too low	-0.125
+must be sensitive	-0.125
+extremely serious	-0.125
+extremely short	-0.125
+could lose	-0.125
+would have been hard	-0.125
+does not fit	-0.127
+was too low	-0.127
+must be better	-0.127
+does not upset	-0.139
+may support	-0.139
+not accept	-0.139
+did not wait	-0.139
+did not need	-0.139
+could care	-0.139
+can be better	-0.139
+would wait	-0.139
+fairly short	-0.139
+never allow	-0.143
+quite difficult	-0.143
+will not be able	-0.153
+should be lost	-0.153
+not keen	-0.153
+no relevant	-0.153
+did not accept	-0.153
+would not lead	-0.153
+does not matter	-0.153
+was no real	-0.153
+was too proud	-0.159
+cannot know	-0.167
+will not care	-0.167
+not enjoy	-0.167
+may not provide	-0.167
+does not interest	-0.167
+much hard	-0.167
+less effective	-0.175
+was not responsible	-0.175
+would not matter	-0.175
+does not lead	-0.181
+not know	-0.181
+would not be pleased	-0.181
+may be short	-0.181
+not responsible	-0.181
+highly expensive	-0.181
+no fair	-0.181
+cannot allow	-0.181
+can be difficult	-0.181
+have no great	-0.181
+may not agree	-0.181
+does not complete	-0.181
+particularly need	-0.194
+increasingly complex	-0.194
+could not provide	-0.194
+particularly serious	-0.194
+might be responsible	-0.194
+quite complex	-0.194
+was no serious	-0.194
+would be worse	-0.194
+would doubt	-0.194
+rather expensive	-0.194
+would be expensive	-0.194
+had no need	-0.194
+was very short	-0.194
+could not hope	-0.194
+was more difficult	-0.194
+would not be worth	-0.194
+can be effective	-0.204
+may fail	-0.206
+may be worse	-0.208
+so complex	-0.208
+would be lost	-0.208
+quite sensitive	-0.208
+does not wait	-0.208
+must pay	-0.208
+would not be fair	-0.208
+might care	-0.208
+not interested	-0.208
+had no real	-0.208
+would not agree	-0.208
+was so short	-0.208
+does not need	-0.208
+not very attractive	-0.208
+was not relevant	-0.208
+no easy	-0.222
+cannot understand	-0.222
+was not important	-0.222
+no fit	-0.222
+was more complex	-0.222
+was so serious	-0.222
+was not fit	-0.222
+could be hard	-0.222
+was no special	-0.222
+would break	-0.222
+not very successful	-0.222
+most serious	-0.222
+was too serious	-0.222
+did not interest	-0.222
+will not understand	-0.222
+nothing important	-0.222
+might lose	-0.222
+rather short	-0.222
+no better	-0.222
+should be careful	-0.222
+can be wrong	-0.222
+less dangerous	-0.236
+have no real	-0.236
+could not allow	-0.236
+must be difficult	-0.236
+would not be true	-0.236
+no responsible	-0.236
+extremely sensitive	-0.236
+would be relevant	-0.236
+not understood	-0.236
+never hurt	-0.236
+too serious	-0.236
+not sufficient	-0.236
+will not pay	-0.236
+will not allow	-0.236
+could upset	-0.236
+will not wait	-0.236
+will not be happy	-0.238
+was not keen	-0.238
+would not be suitable	-0.238
+could not accept	-0.238
+not need	-0.238
+was not fair	-0.241
+really low	-0.25
+would not accept	-0.25
+could be wrong	-0.25
+less easy	-0.25
+might be difficult	-0.25
+no benefit	-0.25
+would not be able	-0.25
+might break	-0.25
+did not understand	-0.25
+very complex	-0.25
+no complete	-0.25
+too complex	-0.25
+have no significant	-0.25
+was no independent	-0.25
+not understand	-0.25
+would be difficult	-0.25
+nothing funny	-0.25
+may not accept	-0.25
+would not be appropriate	-0.25
+was not interested	-0.254
+did not know	-0.254
+would not understand	-0.254
+so low	-0.264
+less fit	-0.264
+extremely complex	-0.264
+was not popular	-0.264
+less free	-0.264
+not independent	-0.264
+may doubt	-0.264
+fairly low	-0.264
+much more expensive	-0.264
+no short	-0.264
+rather hard	-0.264
+quite serious	-0.264
+would not allow	-0.264
+too sensitive	-0.264
+much more complex	-0.264
+does not accept	-0.264
+would not benefit	-0.264
+not very important	-0.264
+would not be sufficient	-0.27
+too short	-0.27
+did not pay	-0.278
+was too short	-0.278
+was not sufficient	-0.278
+would not help	-0.278
+no important	-0.278
+extremely expensive	-0.278
+would not be right	-0.278
+quite poor	-0.278
+does not help	-0.278
+probably know	-0.278
+less attractive	-0.278
+was too afraid	-0.278
+was more serious	-0.278
+would be hard	-0.286
+had no right	-0.292
+never know	-0.292
+fairly hard	-0.292
+may not lead	-0.292
+less true	-0.292
+would upset	-0.292
+really lost	-0.292
+may not understand	-0.292
+less support	-0.292
+does not agree	-0.292
+should break	-0.292
+can be hard	-0.292
+pretty hard	-0.292
+highly complex	-0.296
+less accurate	-0.302
+may lose	-0.302
+no free	-0.306
+less useful	-0.306
+may be wrong	-0.306
+less interested	-0.306
+would not be interested	-0.306
+was not complete	-0.306
+not special	-0.306
+might fail	-0.306
+did not agree	-0.306
+not very effective	-0.306
+was not true	-0.306
+was more expensive	-0.306
+was no great	-0.306
+no significant	-0.306
+very serious	-0.306
+not effective	-0.306
+no help	-0.306
+relatively low	-0.306
+was very wrong	-0.306
+will not know	-0.306
+may be lost	-0.306
+could wait	-0.306
+never understand	-0.317
+not short	-0.319
+not fair	-0.319
+no special	-0.319
+must break	-0.319
+would be low	-0.319
+must be able	-0.319
+would not provide	-0.319
+not too great	-0.319
+not very nice	-0.319
+does not pay	-0.319
+can lose	-0.319
+less successful	-0.319
+was very expensive	-0.319
+could be worse	-0.319
+may be low	-0.319
+less helpful	-0.319
+was too expensive	-0.319
+so expensive	-0.319
+so short	-0.319
+no right	-0.319
+could fail	-0.319
+will not be interested	-0.319
+very very expensive	-0.319
+quite low	-0.319
+may upset	-0.319
+have no independent	-0.319
+was really hard	-0.319
+does not enjoy	-0.319
+relatively poor	-0.333
+no real	-0.333
+probably lost	-0.333
+relatively difficult	-0.333
+did not lead	-0.333
+not too happy	-0.333
+no effective	-0.333
+can ill	-0.333
+nothing worth	-0.333
+pretty serious	-0.333
+was not safe	-0.333
+less relevant	-0.333
+would not be free	-0.333
+not able	-0.347
+not very happy	-0.347
+not support	-0.347
+too independent	-0.347
+was not pleased	-0.347
+so serious	-0.347
+not very useful	-0.347
+might be lost	-0.347
+more lost	-0.347
+rather serious	-0.347
+not important	-0.347
+cannot support	-0.347
+could not care	-0.347
+not pay	-0.347
+would have been lost	-0.347
+did not love	-0.347
+could be difficult	-0.347
+would be afraid	-0.347
+not helpful	-0.349
+less familiar	-0.349
+no interest	-0.349
+was not happy	-0.349
+was not good	-0.349
+must be ill	-0.352
+not very helpful	-0.361
+could be hurt	-0.361
+was not worth	-0.361
+was too poor	-0.361
+would not need	-0.361
+was not free	-0.361
+had no special	-0.361
+may break	-0.361
+could hurt	-0.361
+very expensive	-0.361
+does not provide	-0.361
+less need	-0.361
+could ill	-0.361
+did not provide	-0.361
+no suitable	-0.361
+less appropriate	-0.361
+was not funny	-0.361
+very very serious	-0.361
+was not suitable	-0.361
+not right	-0.361
+can break	-0.361
+never complete	-0.365
+does not support	-0.365
+can be lost	-0.365
+was not easy	-0.365
+will not lead	-0.365
+no fun	-0.375
+will not be responsible	-0.375
+would lose	-0.375
+had no independent	-0.375
+more hard	-0.375
+nothing worse	-0.375
+could not support	-0.375
+not very interested	-0.375
+can be bad	-0.375
+would not enjoy	-0.375
+could not pay	-0.375
+was very low	-0.375
+could break	-0.375
+too expensive	-0.375
+did not benefit	-0.375
+not accurate	-0.375
+never pay	-0.375
+could not help	-0.375
+have no right	-0.375
+was more trouble	-0.381
+pretty short	-0.381
+probably wrong	-0.381
+could not enjoy	-0.389
+was not significant	-0.389
+was not familiar	-0.389
+will not enjoy	-0.389
+will not fit	-0.389
+may be difficult	-0.389
+cannot enjoy	-0.389
+will not accept	-0.389
+particularly difficult	-0.389
+would not fit	-0.389
+not complete	-0.389
+was no help	-0.389
+was not nice	-0.397
+not very keen	-0.397
+really hard	-0.397
+not help	-0.403
+will not provide	-0.403
+no love	-0.403
+quite wrong	-0.403
+less good	-0.403
+not pleased	-0.403
+less important	-0.403
+not appropriate	-0.403
+have no love	-0.403
+no support	-0.403
+cannot agree	-0.413
+not agree	-0.413
+had no significant	-0.417
+rather difficult	-0.417
+much more difficult	-0.417
+not relevant	-0.417
+so afraid	-0.417
+should lose	-0.417
+not significant	-0.417
+no great	-0.417
+quite upset	-0.417
+not too good	-0.417
+had no interest	-0.417
+may not care	-0.417
+not allow	-0.417
+never accept	-0.417
+was too complex	-0.417
+too poor	-0.429
+cannot accept	-0.431
+less happy	-0.431
+was very hard	-0.431
+rather worse	-0.431
+not fit	-0.431
+could not understand	-0.431
+must be wrong	-0.431
+most complex	-0.431
+not popular	-0.431
+was no true	-0.431
+will not support	-0.431
+can harm	-0.431
+did not matter	-0.431
+would have been worse	-0.444
+would not be easy	-0.444
+was too upset	-0.444
+pretty low	-0.444
+can doubt	-0.444
+have no interest	-0.444
+no accurate	-0.444
+no pay	-0.444
+can upset	-0.444
+does not care	-0.444
+not great	-0.444
+will not be complete	-0.444
+not very easy	-0.444
+will not be worth	-0.444
+could not agree	-0.444
+not good	-0.444
+no need	-0.444
+very hard	-0.458
+was not understood	-0.458
+particularly poor	-0.458
+was not accurate	-0.458
+had no hope	-0.458
+very very low	-0.458
+would hurt	-0.458
+was not helpful	-0.458
+did not support	-0.458
+more afraid	-0.458
+not suitable	-0.458
+would be very difficult	-0.458
+may not help	-0.46
+will not be appropriate	-0.46
+very low	-0.46
+less able	-0.46
+was not great	-0.46
+not care	-0.46
+not attractive	-0.46
+have no need	-0.472
+would be very hard	-0.472
+could be lost	-0.472
+cannot help	-0.472
+would not be safe	-0.472
+would be bad	-0.472
+cannot love	-0.486
+may be bad	-0.486
+was not careful	-0.486
+could be bad	-0.486
+did not allow	-0.486
+so hard	-0.486
+increasingly expensive	-0.486
+was quite difficult	-0.486
+not useful	-0.486
+did not help	-0.486
+would not be good	-0.486
+was too difficult	-0.489
+more wrong	-0.492
+not better	-0.5
+no care	-0.5
+was really upset	-0.5
+not very accurate	-0.5
+pretty difficult	-0.5
+would not support	-0.5
+cannot fit	-0.508
+not very popular	-0.508
+much more serious	-0.508
+would not pay	-0.514
+much doubt	-0.514
+no independent	-0.514
+really upset	-0.514
+does not understand	-0.514
+not careful	-0.514
+will not help	-0.514
+more trouble	-0.514
+quite hard	-0.514
+was so difficult	-0.514
+was really ill	-0.514
+would not care	-0.514
+did not complete	-0.514
+too hard	-0.514
+will not be successful	-0.514
+rather doubt	-0.514
+not worth	-0.524
+no good	-0.524
+rather stupid	-0.524
+less real	-0.528
+was too hard	-0.528
+was not love	-0.528
+no true	-0.528
+not true	-0.528
+less safe	-0.528
+was not appropriate	-0.528
+was very afraid	-0.528
+must lose	-0.528
+was no fun	-0.528
+was very difficult	-0.54
+not very good	-0.542
+never understood	-0.542
+pretty poor	-0.542
+very poor	-0.542
+no useful	-0.542
+was no significant	-0.542
+should fail	-0.542
+never good	-0.542
+cannot pay	-0.542
+was very ill	-0.542
+increasingly hard	-0.542
+did not enjoy	-0.542
+not successful	-0.556
+did not care	-0.556
+not proud	-0.556
+will not benefit	-0.556
+pretty stupid	-0.556
+was not right	-0.556
+must be hard	-0.556
+did not fit	-0.556
+may be hard	-0.556
+most stupid	-0.556
+rather bad	-0.556
+can fail	-0.556
+no safe	-0.556
+extremely low	-0.556
+no happy	-0.556
+would be hurt	-0.569
+too afraid	-0.569
+could be dangerous	-0.569
+more ill	-0.569
+was particularly difficult	-0.583
+not nice	-0.583
+cannot provide	-0.583
+so difficult	-0.583
+less significant	-0.583
+particularly hard	-0.583
+particularly low	-0.583
+increasingly difficult	-0.583
+too difficult	-0.583
+really difficult	-0.583
+must need	-0.587
+so lost	-0.597
+was no hope	-0.597
+was very poor	-0.597
+very very difficult	-0.597
+would not be happy	-0.597
+rather low	-0.597
+might be wrong	-0.597
+not too keen	-0.603
+could not love	-0.611
+most poor	-0.611
+quite bad	-0.611
+might be dangerous	-0.611
+more upset	-0.611
+was so upset	-0.611
+so upset	-0.611
+was so bad	-0.611
+was not successful	-0.619
+particularly bad	-0.619
+really hurt	-0.619
+was no good	-0.625
+does not love	-0.625
+cannot benefit	-0.625
+would be trouble	-0.625
+rather poor	-0.625
+very difficult	-0.625
+too stupid	-0.635
+can be dangerous	-0.635
+was too bad	-0.639
+not happy	-0.639
+was particularly bad	-0.639
+will not agree	-0.639
+was too ill	-0.639
+extremely hard	-0.639
+does not allow	-0.639
+was no love	-0.639
+was so hard	-0.653
+could harm	-0.653
+most difficult	-0.653
+not real	-0.667
+especially difficult	-0.667
+too bad	-0.667
+was too dangerous	-0.667
+would be dangerous	-0.667
+much trouble	-0.667
+will not be sufficient	-0.667
+not provide	-0.667
+was so poor	-0.667
+so hurt	-0.681
+extremely poor	-0.681
+so bad	-0.681
+really poor	-0.683
+nothing good	-0.683
+so wrong	-0.683
+very afraid	-0.694
+may be dangerous	-0.694
+will not be easy	-0.694
+might harm	-0.694
+cannot hope	-0.694
+was very bad	-0.694
+quite ill	-0.708
+more stupid	-0.708
+very upset	-0.708
+was very upset	-0.708
+very stupid	-0.708
+quite dangerous	-0.708
+so ill	-0.708
+was really bad	-0.708
+never able	-0.714
+very very hard	-0.722
+was so stupid	-0.722
+much harm	-0.722
+was so ill	-0.722
+was so afraid	-0.722
+so poor	-0.722
+much worse	-0.722
+might hurt	-0.736
+especially bad	-0.736
+would fail	-0.736
+more bad	-0.736
+more difficult	-0.746
+very very poor	-0.75
+will not be pleased	-0.764
+really ill	-0.764
+would harm	-0.764
+not safe	-0.764
+extremely difficult	-0.764
+very bad	-0.778
+not love	-0.778
+very wrong	-0.778
+really bad	-0.778
+really dangerous	-0.778
+too ill	-0.778
+was quite wrong	-0.792
+too upset	-0.792
+no hope	-0.792
+more dangerous	-0.792
+much more dangerous	-0.792
+too dangerous	-0.792
+so stupid	-0.794
+would be stupid	-0.794
+rather dangerous	-0.806
+very ill	-0.806
+highly dangerous	-0.806
+pretty bad	-0.806
+most dangerous	-0.819
+so dangerous	-0.819
+was very dangerous	-0.819
+more harm	-0.819
+very dangerous	-0.833
+have no hope	-0.847
+more hurt	-0.873
+extremely bad	-0.873
+must fail	-0.875
+very very bad	-0.889
+very very dangerous	-0.903
+extremely dangerous	-0.903
+really stupid	-0.903
+particularly dangerous	-0.917
+can hurt	-0.921

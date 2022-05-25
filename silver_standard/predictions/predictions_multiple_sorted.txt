@@ -1,0 +1,1344 @@
+very very happy	0.9999256621257941
+much hope	0.9993931059399421
+really hope	0.9993931059399421
+particularly happy	0.9990483647623232
+very proud	0.9990483647623232
+most happy	0.9990483647623232
+very happy	0.9990483647623232
+was so happy	0.9990483647623232
+was very happy	0.9990483647623232
+so happy	0.9990483647623232
+really happy	0.9990483647623232
+was very proud	0.9990483647623232
+was so proud	0.9990483647623232
+was really proud	0.9990483647623232
+too happy	0.9990483647623232
+so proud	0.9990483647623232
+really proud	0.9990483647623232
+most proud	0.9990483647623232
+would be very happy	0.9990483647623232
+particularly proud	0.9990483647623232
+was particularly proud	0.9990483647623232
+too proud	0.9990483647623232
+not too happy	0.9990483647623232
+not very happy	0.9990483647623232
+was particularly true	0.997660979469889
+especially true	0.997660979469889
+really true	0.997660979469889
+too true	0.997660979469889
+so true	0.997660979469889
+particularly true	0.997660979469889
+pretty hard	0.997660979469889
+pretty short	0.997660979469889
+pretty low	0.997660979469889
+really fun	0.9963341221150145
+most fun	0.9963341221150145
+much fun	0.9963341221150145
+pretty nice	0.9910074536781176
+very very nice	0.9910074536781176
+very very funny	0.9910074536781176
+should hope	0.9910074536781176
+can hope	0.9910074536781176
+must hope	0.9910074536781176
+could hope	0.9910074536781176
+may hope	0.9910074536781176
+would hope	0.9910074536781176
+might hope	0.9910074536781176
+could not hope	0.9910074536781176
+was quite happy	0.9878803970168318
+quite happy	0.9878803970168318
+quite proud	0.9878803970168318
+more happy	0.9878803970168318
+rather proud	0.9878803970168318
+should be proud	0.9878803970168318
+can be proud	0.9878803970168318
+may be happy	0.9878803970168318
+could be happy	0.9878803970168318
+could be proud	0.9878803970168318
+would be proud	0.9878803970168318
+relatively happy	0.9878803970168318
+would be happy	0.9878803970168318
+would have been happy	0.9878803970168318
+would have been proud	0.9878803970168318
+can be happy	0.9878803970168318
+should be happy	0.9878803970168318
+will not be happy	0.9878803970168318
+was not happy	0.9878803970168318
+less happy	0.9878803970168318
+not proud	0.9878803970168318
+pretty good	0.9824145675206502
+was really pleased	0.9780261147388136
+was very pleased	0.9780261147388136
+very pleased	0.9780261147388136
+really love	0.9780261147388136
+really pleased	0.9780261147388136
+too pleased	0.9780261147388136
+much love	0.9780261147388136
+particularly pleased	0.9780261147388136
+was so pleased	0.9780261147388136
+would be very pleased	0.9780261147388136
+was particularly pleased	0.9780261147388136
+must be true	0.9780261147388136
+more true	0.9780261147388136
+pretty safe	0.9780261147388136
+can be true	0.9780261147388136
+really worth	0.9780261147388136
+may be true	0.9780261147388136
+quite true	0.9780261147388136
+would be true	0.9780261147388136
+could be true	0.9780261147388136
+probably true	0.9780261147388136
+should be true	0.9780261147388136
+might be true	0.9780261147388136
+would not be true	0.9780261147388136
+less true	0.9780261147388136
+was not true	0.9780261147388136
+was more fun	0.9704519366134539
+more fun	0.9704519366134539
+quite fun	0.9704519366134539
+was quite fun	0.9704519366134539
+would be fun	0.9704519366134539
+should be fun	0.9704519366134539
+can be fun	0.9704519366134539
+might be fun	0.9704519366134539
+pretty fair	0.9681872165763705
+very attractive	0.9657519333685445
+very nice	0.9657519333685445
+highly attractive	0.9657519333685445
+was very attractive	0.9657519333685445
+was so nice	0.9657519333685445
+was really nice	0.9657519333685445
+so nice	0.9657519333685445
+really nice	0.9657519333685445
+was very funny	0.9657519333685445
+particularly attractive	0.9657519333685445
+was really funny	0.9657519333685445
+so right	0.9657519333685445
+very funny	0.9657519333685445
+was so funny	0.9657519333685445
+most attractive	0.9657519333685445
+particularly nice	0.9657519333685445
+especially attractive	0.9657519333685445
+much more attractive	0.9657519333685445
+so funny	0.9657519333685445
+pretty easy	0.9657519333685445
+much right	0.9657519333685445
+really fit	0.9657519333685445
+very right	0.9657519333685445
+very fit	0.9657519333685445
+too nice	0.9657519333685445
+certainly hope	0.9657519333685445
+so fit	0.9657519333685445
+would be very nice	0.9657519333685445
+too right	0.9657519333685445
+not very attractive	0.9657519333685445
+not very nice	0.9657519333685445
+very very good	0.9468060128462683
+certainly true	0.9468060128462683
+had no hope	0.9468060128462683
+extremely happy	0.9354090706030989
+extremely proud	0.9354090706030989
+no happy	0.9354090706030989
+fairly happy	0.909565053033425
+more love	0.9051482536448664
+quite pleased	0.9051482536448664
+rather pleased	0.9051482536448664
+must be love	0.9051482536448664
+must love	0.9051482536448664
+should love	0.9051482536448664
+should be pleased	0.9051482536448664
+would be pleased	0.9051482536448664
+could love	0.9051482536448664
+must be pleased	0.9051482536448664
+was quite pleased	0.9051482536448664
+could be worth	0.9051482536448664
+must be worth	0.9051482536448664
+can be worth	0.9051482536448664
+can love	0.9051482536448664
+would love	0.9051482536448664
+might love	0.9051482536448664
+would have been pleased	0.9051482536448664
+would be worth	0.9051482536448664
+probably worth	0.9051482536448664
+should be worth	0.9051482536448664
+might be worth	0.9051482536448664
+would have been worth	0.9051482536448664
+would not be pleased	0.9051482536448664
+would not be worth	0.9051482536448664
+nothing worth	0.9051482536448664
+was not pleased	0.9051482536448664
+did not love	0.9051482536448664
+was not worth	0.9051482536448664
+not pleased	0.9051482536448664
+was no true	0.9051482536448664
+will not be worth	0.9051482536448664
+cannot love	0.9051482536448664
+no true	0.9051482536448664
+was not love	0.9051482536448664
+certainly worth	0.8906373655681185
+was no fun	0.8853516482022625
+really good	0.874053287886007
+especially good	0.874053287886007
+most good	0.874053287886007
+quite funny	0.874053287886007
+rather nice	0.874053287886007
+very good	0.874053287886007
+particularly good	0.874053287886007
+more attractive	0.874053287886007
+more right	0.874053287886007
+was so good	0.874053287886007
+was quite nice	0.874053287886007
+quite nice	0.874053287886007
+would be nice	0.874053287886007
+quite right	0.874053287886007
+rather funny	0.874053287886007
+much good	0.874053287886007
+may agree	0.874053287886007
+certainly right	0.874053287886007
+would be very good	0.874053287886007
+rather attractive	0.874053287886007
+quite attractive	0.874053287886007
+was too good	0.874053287886007
+should be nice	0.874053287886007
+may be attractive	0.874053287886007
+was quite funny	0.874053287886007
+would agree	0.874053287886007
+might be nice	0.874053287886007
+was particularly good	0.874053287886007
+might agree	0.874053287886007
+quite fit	0.874053287886007
+would fit	0.874053287886007
+so good	0.874053287886007
+more fit	0.874053287886007
+would be right	0.874053287886007
+certainly know	0.874053287886007
+quite agree	0.874053287886007
+too good	0.874053287886007
+was quite right	0.874053287886007
+probably right	0.874053287886007
+can agree	0.874053287886007
+could be right	0.874053287886007
+would be attractive	0.874053287886007
+must be right	0.874053287886007
+can be funny	0.874053287886007
+must be nice	0.874053287886007
+must agree	0.874053287886007
+may be right	0.874053287886007
+would be fit	0.874053287886007
+might fit	0.874053287886007
+could agree	0.874053287886007
+should be fit	0.874053287886007
+should be right	0.874053287886007
+might be right	0.874053287886007
+should fit	0.874053287886007
+could not fit	0.874053287886007
+could fit	0.874053287886007
+must fit	0.874053287886007
+not funny	0.874053287886007
+does not fit	0.874053287886007
+may not agree	0.874053287886007
+would not agree	0.874053287886007
+was not fit	0.874053287886007
+nothing funny	0.874053287886007
+less fit	0.874053287886007
+would not be right	0.874053287886007
+less attractive	0.874053287886007
+does not agree	0.874053287886007
+did not agree	0.874053287886007
+was not funny	0.874053287886007
+not right	0.874053287886007
+will not fit	0.874053287886007
+would not fit	0.874053287886007
+was not nice	0.874053287886007
+not agree	0.874053287886007
+cannot agree	0.874053287886007
+not too good	0.874053287886007
+not fit	0.874053287886007
+could not agree	0.874053287886007
+cannot fit	0.874053287886007
+not very good	0.874053287886007
+did not fit	0.874053287886007
+was not right	0.874053287886007
+so successful	0.8551470292769645
+highly successful	0.8551470292769645
+most successful	0.8551470292769645
+really successful	0.8551470292769645
+very successful	0.8551470292769645
+was so successful	0.8551470292769645
+was very successful	0.8551470292769645
+was particularly successful	0.8551470292769645
+much more successful	0.8551470292769645
+particularly successful	0.8551470292769645
+too successful	0.8551470292769645
+not very successful	0.8551470292769645
+really enjoy	0.809301070201781
+so helpful	0.809301070201781
+certainly good	0.809301070201781
+very helpful	0.809301070201781
+so safe	0.809301070201781
+most helpful	0.809301070201781
+would be very helpful	0.809301070201781
+particularly helpful	0.809301070201781
+really safe	0.809301070201781
+was very helpful	0.809301070201781
+not very helpful	0.809301070201781
+highly effective	0.781806357608774
+highly accurate	0.781806357608774
+particularly effective	0.781806357608774
+very accurate	0.781806357608774
+highly relevant	0.781806357608774
+so effective	0.781806357608774
+was very effective	0.781806357608774
+very effective	0.781806357608774
+much more accurate	0.781806357608774
+really effective	0.781806357608774
+much more effective	0.781806357608774
+especially effective	0.781806357608774
+most responsible	0.781806357608774
+most accurate	0.781806357608774
+really relevant	0.781806357608774
+very relevant	0.781806357608774
+increasingly effective	0.781806357608774
+most relevant	0.781806357608774
+especially relevant	0.781806357608774
+very responsible	0.781806357608774
+particularly relevant	0.781806357608774
+not very effective	0.781806357608774
+not very accurate	0.781806357608774
+pretty poor	0.7667940616777214
+very very special	0.7615941559557649
+extremely pleased	0.7615941559557649
+very very careful	0.7615941559557649
+very very important	0.7615941559557649
+have no love	0.7615941559557649
+no love	0.7615941559557649
+pretty difficult	0.7340715196043415
+certainly important	0.7282542059818115
+extremely nice	0.7162978701990245
+extremely attractive	0.7162978701990245
+quite good	0.7162978701990245
+might be good	0.7162978701990245
+can be good	0.7162978701990245
+was quite good	0.7162978701990245
+certainly better	0.7162978701990245
+more good	0.7162978701990245
+rather good	0.7162978701990245
+must be good	0.7162978701990245
+probably good	0.7162978701990245
+would be good	0.7162978701990245
+relatively good	0.7162978701990245
+should be good	0.7162978701990245
+would have been good	0.7162978701990245
+may be good	0.7162978701990245
+could be good	0.7162978701990245
+no fit	0.7162978701990245
+had no right	0.7162978701990245
+no right	0.7162978701990245
+was not good	0.7162978701990245
+have no right	0.7162978701990245
+less good	0.7162978701990245
+would not be good	0.7162978701990245
+more successful	0.6910694698329306
+can be successful	0.6910694698329306
+quite successful	0.6910694698329306
+relatively successful	0.6910694698329306
+was more successful	0.6910694698329306
+would be successful	0.6910694698329306
+less successful	0.6910694698329306
+will not be successful	0.6910694698329306
+not successful	0.6910694698329306
+very special	0.6351489523872873
+very fair	0.6351489523872873
+quite helpful	0.6351489523872873
+most special	0.6351489523872873
+quite enjoy	0.6351489523872873
+really special	0.6351489523872873
+so special	0.6351489523872873
+particularly special	0.6351489523872873
+can enjoy	0.6351489523872873
+most benefit	0.6351489523872873
+should enjoy	0.6351489523872873
+highly important	0.6351489523872873
+would enjoy	0.6351489523872873
+would be safe	0.6351489523872873
+especially important	0.6351489523872873
+was so real	0.6351489523872873
+was very fair	0.6351489523872873
+might enjoy	0.6351489523872873
+should be helpful	0.6351489523872873
+more pay	0.6351489523872873
+much benefit	0.6351489523872873
+most important	0.6351489523872873
+was quite safe	0.6351489523872873
+increasingly familiar	0.6351489523872873
+really important	0.6351489523872873
+was very careful	0.6351489523872873
+so familiar	0.6351489523872873
+so fair	0.6351489523872873
+was very real	0.6351489523872873
+was so important	0.6351489523872873
+can be helpful	0.6351489523872873
+quite safe	0.6351489523872873
+could enjoy	0.6351489523872873
+must enjoy	0.6351489523872873
+so important	0.6351489523872873
+very real	0.6351489523872873
+must be safe	0.6351489523872873
+relatively safe	0.6351489523872873
+more helpful	0.6351489523872873
+very important	0.6351489523872873
+most real	0.6351489523872873
+so real	0.6351489523872873
+much more important	0.6351489523872873
+was very important	0.6351489523872873
+could be helpful	0.6351489523872873
+may be helpful	0.6351489523872873
+too important	0.6351489523872873
+most familiar	0.6351489523872873
+very careful	0.6351489523872873
+would be helpful	0.6351489523872873
+increasingly important	0.6351489523872873
+most careful	0.6351489523872873
+so careful	0.6351489523872873
+would pay	0.6351489523872873
+can pay	0.6351489523872873
+very familiar	0.6351489523872873
+could pay	0.6351489523872873
+might be helpful	0.6351489523872873
+was too important	0.6351489523872873
+was particularly important	0.6351489523872873
+was so familiar	0.6351489523872873
+might pay	0.6351489523872873
+should be safe	0.6351489523872873
+can be safe	0.6351489523872873
+may enjoy	0.6351489523872873
+too real	0.6351489523872873
+particularly careful	0.6351489523872873
+would have been helpful	0.6351489523872873
+may pay	0.6351489523872873
+should pay	0.6351489523872873
+so provide	0.6351489523872873
+not enjoy	0.6351489523872873
+must pay	0.6351489523872873
+will not pay	0.6351489523872873
+not very important	0.6351489523872873
+did not pay	0.6351489523872873
+less helpful	0.6351489523872873
+does not pay	0.6351489523872873
+does not enjoy	0.6351489523872873
+was not safe	0.6351489523872873
+not pay	0.6351489523872873
+not helpful	0.6351489523872873
+could not pay	0.6351489523872873
+would not enjoy	0.6351489523872873
+could not enjoy	0.6351489523872873
+will not enjoy	0.6351489523872873
+cannot enjoy	0.6351489523872873
+was not helpful	0.6351489523872873
+would not be safe	0.6351489523872873
+would not pay	0.6351489523872873
+less safe	0.6351489523872873
+did not enjoy	0.6351489523872873
+cannot pay	0.6351489523872873
+fairly good	0.6043677771171635
+was more effective	0.6043677771171635
+quite accurate	0.6043677771171635
+would be effective	0.6043677771171635
+more accurate	0.6043677771171635
+more effective	0.6043677771171635
+may be relevant	0.6043677771171635
+would be responsible	0.6043677771171635
+may be effective	0.6043677771171635
+quite effective	0.6043677771171635
+can be responsible	0.6043677771171635
+probably responsible	0.6043677771171635
+was more accurate	0.6043677771171635
+must be responsible	0.6043677771171635
+must be accurate	0.6043677771171635
+more responsible	0.6043677771171635
+could be effective	0.6043677771171635
+must be relevant	0.6043677771171635
+should be responsible	0.6043677771171635
+might be relevant	0.6043677771171635
+could be responsible	0.6043677771171635
+less effective	0.6043677771171635
+was not responsible	0.6043677771171635
+not responsible	0.6043677771171635
+might be responsible	0.6043677771171635
+can be effective	0.6043677771171635
+would be relevant	0.6043677771171635
+less accurate	0.6043677771171635
+not effective	0.6043677771171635
+less relevant	0.6043677771171635
+not accurate	0.6043677771171635
+will not be responsible	0.6043677771171635
+not relevant	0.6043677771171635
+was not accurate	0.6043677771171635
+very useful	0.5882592563981054
+most useful	0.5882592563981054
+most popular	0.5882592563981054
+very popular	0.5882592563981054
+much more useful	0.5882592563981054
+highly popular	0.5882592563981054
+highly suitable	0.5882592563981054
+especially popular	0.5882592563981054
+very significant	0.5882592563981054
+especially useful	0.5882592563981054
+was so easy	0.5882592563981054
+really useful	0.5882592563981054
+highly significant	0.5882592563981054
+so significant	0.5882592563981054
+very easy	0.5882592563981054
+very able	0.5882592563981054
+increasingly popular	0.5882592563981054
+so popular	0.5882592563981054
+most significant	0.5882592563981054
+most interest	0.5882592563981054
+much useful	0.5882592563981054
+was very popular	0.5882592563981054
+much popular	0.5882592563981054
+so easy	0.5882592563981054
+really care	0.5882592563981054
+particularly useful	0.5882592563981054
+most appropriate	0.5882592563981054
+was very useful	0.5882592563981054
+very appropriate	0.5882592563981054
+particularly significant	0.5882592563981054
+particularly easy	0.5882592563981054
+most suitable	0.5882592563981054
+most support	0.5882592563981054
+very suitable	0.5882592563981054
+much better	0.5882592563981054
+particularly popular	0.5882592563981054
+really easy	0.5882592563981054
+much interest	0.5882592563981054
+very independent	0.5882592563981054
+especially significant	0.5882592563981054
+too easy	0.5882592563981054
+would be very useful	0.5882592563981054
+especially suitable	0.5882592563981054
+much care	0.5882592563981054
+highly appropriate	0.5882592563981054
+so free	0.5882592563981054
+much support	0.5882592563981054
+most independent	0.5882592563981054
+most able	0.5882592563981054
+really significant	0.5882592563981054
+particularly appropriate	0.5882592563981054
+much more significant	0.5882592563981054
+so care	0.5882592563981054
+fairly successful	0.5882592563981054
+so useful	0.5882592563981054
+much free	0.5882592563981054
+too popular	0.5882592563981054
+was very sensitive	0.5882592563981054
+was so popular	0.5882592563981054
+was too easy	0.5882592563981054
+too free	0.5882592563981054
+so lead	0.5882592563981054
+much more sensitive	0.5882592563981054
+very sensitive	0.5882592563981054
+particularly sensitive	0.5882592563981054
+so sensitive	0.5882592563981054
+most sensitive	0.5882592563981054
+especially sensitive	0.5882592563981054
+highly sensitive	0.5882592563981054
+too sensitive	0.5882592563981054
+not very useful	0.5882592563981054
+too independent	0.5882592563981054
+not very easy	0.5882592563981054
+fairly safe	0.5545997223493824
+fairly accurate	0.5370495669980353
+no good	0.5370495669980353
+never good	0.5370495669980353
+extremely successful	0.5129070584608084
+quite special	0.4621171572600098
+extremely helpful	0.4621171572600098
+rather special	0.4621171572600098
+quite important	0.4621171572600098
+should benefit	0.4621171572600098
+more special	0.4621171572600098
+was more important	0.4621171572600098
+can provide	0.4621171572600098
+would benefit	0.4621171572600098
+might benefit	0.4621171572600098
+rather important	0.4621171572600098
+quite familiar	0.4621171572600098
+more familiar	0.4621171572600098
+may benefit	0.4621171572600098
+more benefit	0.4621171572600098
+can benefit	0.4621171572600098
+must be important	0.4621171572600098
+must be real	0.4621171572600098
+more important	0.4621171572600098
+might be important	0.4621171572600098
+may fair	0.4621171572600098
+fairly important	0.4621171572600098
+can be important	0.4621171572600098
+must be fair	0.4621171572600098
+would provide	0.4621171572600098
+may provide	0.4621171572600098
+would be important	0.4621171572600098
+would be fair	0.4621171572600098
+could provide	0.4621171572600098
+more real	0.4621171572600098
+may be important	0.4621171572600098
+may be real	0.4621171572600098
+could benefit	0.4621171572600098
+must be careful	0.4621171572600098
+should provide	0.4621171572600098
+must provide	0.4621171572600098
+must be familiar	0.4621171572600098
+might provide	0.4621171572600098
+fairly complete	0.4621171572600098
+nothing special	0.4621171572600098
+may be familiar	0.4621171572600098
+could be important	0.4621171572600098
+more careful	0.4621171572600098
+probably fair	0.4621171572600098
+should be familiar	0.4621171572600098
+fairly complex	0.4621171572600098
+does not benefit	0.4621171572600098
+should be fair	0.4621171572600098
+was not real	0.4621171572600098
+rather familiar	0.4621171572600098
+fairly short	0.4621171572600098
+may not provide	0.4621171572600098
+could not provide	0.4621171572600098
+would not be fair	0.4621171572600098
+should be careful	0.4621171572600098
+nothing important	0.4621171572600098
+was not important	0.4621171572600098
+was not fair	0.4621171572600098
+fairly low	0.4621171572600098
+would not benefit	0.4621171572600098
+fairly hard	0.4621171572600098
+not special	0.4621171572600098
+would not provide	0.4621171572600098
+not important	0.4621171572600098
+less familiar	0.4621171572600098
+does not provide	0.4621171572600098
+did not provide	0.4621171572600098
+did not benefit	0.4621171572600098
+never pay	0.4621171572600098
+was not familiar	0.4621171572600098
+less important	0.4621171572600098
+will not provide	0.4621171572600098
+no pay	0.4621171572600098
+was not careful	0.4621171572600098
+not careful	0.4621171572600098
+less real	0.4621171572600098
+will not benefit	0.4621171572600098
+fairly easy	0.4422303560457262
+extremely effective	0.43550211391547994
+no relevant	0.43550211391547994
+no responsible	0.43550211391547994
+no effective	0.43550211391547994
+no accurate	0.43550211391547994
+was more appropriate	0.42189900525000795
+quite useful	0.42189900525000795
+relatively easy	0.42189900525000795
+was quite easy	0.42189900525000795
+more popular	0.42189900525000795
+more significant	0.42189900525000795
+can be free	0.42189900525000795
+might be appropriate	0.42189900525000795
+would be able	0.42189900525000795
+more independent	0.42189900525000795
+may be suitable	0.42189900525000795
+quite significant	0.42189900525000795
+would be easy	0.42189900525000795
+should be easy	0.42189900525000795
+quite sufficient	0.42189900525000795
+might be able	0.42189900525000795
+should be free	0.42189900525000795
+might be useful	0.42189900525000795
+can support	0.42189900525000795
+would support	0.42189900525000795
+probably better	0.42189900525000795
+can be significant	0.42189900525000795
+quite able	0.42189900525000795
+more able	0.42189900525000795
+more suitable	0.42189900525000795
+was more popular	0.42189900525000795
+quite free	0.42189900525000795
+can free	0.42189900525000795
+could lead	0.42189900525000795
+may be appropriate	0.42189900525000795
+quite appropriate	0.42189900525000795
+quite popular	0.42189900525000795
+would be useful	0.42189900525000795
+could be useful	0.42189900525000795
+more sensitive	0.42189900525000795
+more interest	0.42189900525000795
+could be free	0.42189900525000795
+may be free	0.42189900525000795
+may lead	0.42189900525000795
+more support	0.42189900525000795
+can care	0.42189900525000795
+would lead	0.42189900525000795
+relatively free	0.42189900525000795
+more care	0.42189900525000795
+should be sufficient	0.42189900525000795
+might be better	0.42189900525000795
+could be significant	0.42189900525000795
+rather better	0.42189900525000795
+would be appropriate	0.42189900525000795
+would free	0.42189900525000795
+should be independent	0.42189900525000795
+more appropriate	0.42189900525000795
+more free	0.42189900525000795
+may interest	0.42189900525000795
+could better	0.42189900525000795
+may be useful	0.42189900525000795
+quite easy	0.42189900525000795
+could interest	0.42189900525000795
+should lead	0.42189900525000795
+more useful	0.42189900525000795
+must be free	0.42189900525000795
+must be independent	0.42189900525000795
+would be free	0.42189900525000795
+can lead	0.42189900525000795
+may care	0.42189900525000795
+would be better	0.42189900525000795
+could free	0.42189900525000795
+may independent	0.42189900525000795
+might interest	0.42189900525000795
+may be sufficient	0.42189900525000795
+should be useful	0.42189900525000795
+relatively independent	0.42189900525000795
+can better	0.42189900525000795
+might lead	0.42189900525000795
+must be sufficient	0.42189900525000795
+must be appropriate	0.42189900525000795
+would have been sufficient	0.42189900525000795
+should support	0.42189900525000795
+would care	0.42189900525000795
+would have been easy	0.42189900525000795
+may be significant	0.42189900525000795
+would be suitable	0.42189900525000795
+may be better	0.42189900525000795
+would not be better	0.42189900525000795
+should be able	0.42189900525000795
+would have been appropriate	0.42189900525000795
+would have been better	0.42189900525000795
+not easy	0.42189900525000795
+must be easy	0.42189900525000795
+must support	0.42189900525000795
+would better	0.42189900525000795
+must lead	0.42189900525000795
+should care	0.42189900525000795
+could support	0.42189900525000795
+less sensitive	0.42189900525000795
+less popular	0.42189900525000795
+less interest	0.42189900525000795
+would be sufficient	0.42189900525000795
+less independent	0.42189900525000795
+might support	0.42189900525000795
+was not able	0.42189900525000795
+not free	0.42189900525000795
+would have been able	0.42189900525000795
+might be suitable	0.42189900525000795
+would have been useful	0.42189900525000795
+might be sufficient	0.42189900525000795
+less suitable	0.42189900525000795
+not sensitive	0.42189900525000795
+not lead	0.42189900525000795
+must be sensitive	0.42189900525000795
+must be better	0.42189900525000795
+can be better	0.42189900525000795
+could care	0.42189900525000795
+may support	0.42189900525000795
+will not be able	0.42189900525000795
+would not lead	0.42189900525000795
+will not care	0.42189900525000795
+does not interest	0.42189900525000795
+does not lead	0.42189900525000795
+quite sensitive	0.42189900525000795
+might care	0.42189900525000795
+did not interest	0.42189900525000795
+not sufficient	0.42189900525000795
+would not be suitable	0.42189900525000795
+would not be able	0.42189900525000795
+less easy	0.42189900525000795
+was not popular	0.42189900525000795
+not independent	0.42189900525000795
+would not be sufficient	0.42189900525000795
+less support	0.42189900525000795
+may not lead	0.42189900525000795
+less useful	0.42189900525000795
+must be able	0.42189900525000795
+did not lead	0.42189900525000795
+would not be free	0.42189900525000795
+could not care	0.42189900525000795
+not support	0.42189900525000795
+cannot support	0.42189900525000795
+less appropriate	0.42189900525000795
+was not suitable	0.42189900525000795
+was not free	0.42189900525000795
+was not easy	0.42189900525000795
+will not lead	0.42189900525000795
+does not support	0.42189900525000795
+could not support	0.42189900525000795
+was not significant	0.42189900525000795
+not significant	0.42189900525000795
+may not care	0.42189900525000795
+not popular	0.42189900525000795
+will not support	0.42189900525000795
+does not care	0.42189900525000795
+would not be easy	0.42189900525000795
+did not support	0.42189900525000795
+not suitable	0.42189900525000795
+will not be appropriate	0.42189900525000795
+less able	0.42189900525000795
+not care	0.42189900525000795
+not useful	0.42189900525000795
+would not support	0.42189900525000795
+not better	0.42189900525000795
+would not care	0.42189900525000795
+was not appropriate	0.42189900525000795
+did not care	0.42189900525000795
+extremely important	0.3215127375316343
+extremely careful	0.3215127375316343
+have no special	0.3215127375316343
+was no real	0.3215127375316343
+no fair	0.3215127375316343
+had no real	0.3215127375316343
+was no special	0.3215127375316343
+have no real	0.3215127375316343
+no benefit	0.3215127375316343
+no important	0.3215127375316343
+no special	0.3215127375316343
+no real	0.3215127375316343
+had no special	0.3215127375316343
+extremely useful	0.2913126124515909
+never better	0.2913126124515909
+extremely popular	0.2913126124515909
+extremely significant	0.2913126124515909
+was no better	0.2913126124515909
+was no easy	0.2913126124515909
+never easy	0.2913126124515909
+no better	0.2913126124515909
+no easy	0.2913126124515909
+extremely sensitive	0.2913126124515909
+was no independent	0.2913126124515909
+have no significant	0.2913126124515909
+no significant	0.2913126124515909
+no free	0.2913126124515909
+have no independent	0.2913126124515909
+no interest	0.2913126124515909
+no suitable	0.2913126124515909
+had no independent	0.2913126124515909
+no support	0.2913126124515909
+had no significant	0.2913126124515909
+had no interest	0.2913126124515909
+have no interest	0.2913126124515909
+no care	0.2913126124515909
+no independent	0.2913126124515909
+was no significant	0.2913126124515909
+no useful	0.2913126124515909
+so great	0.0
+really great	0.0
+was so great	0.0
+would be great	0.0
+especially interested	0.0
+particularly great	0.0
+very complete	0.0
+was very keen	0.0
+really understand	0.0
+very great	0.0
+more great	0.0
+very keen	0.0
+so interested	0.0
+was so interested	0.0
+was very great	0.0
+extremely interested	0.0
+very interested	0.0
+can be great	0.0
+was particularly interested	0.0
+extremely keen	0.0
+so allow	0.0
+was quite interested	0.0
+more interested	0.0
+really keen	0.0
+would be very interested	0.0
+most complete	0.0
+so keen	0.0
+might be interested	0.0
+was really interested	0.0
+really understood	0.0
+much help	0.0
+much more interested	0.0
+more keen	0.0
+really interested	0.0
+particularly keen	0.0
+was too great	0.0
+most help	0.0
+can accept	0.0
+was very interested	0.0
+can understand	0.0
+quite interested	0.0
+increasingly interested	0.0
+would know	0.0
+most interested	0.0
+particularly interested	0.0
+cannot fail	0.0
+must allow	0.0
+could complete	0.0
+may help	0.0
+was more interested	0.0
+was particularly keen	0.0
+more complete	0.0
+can help	0.0
+will not fail	0.0
+would complete	0.0
+must accept	0.0
+quite understand	0.0
+did not fail	0.0
+would accept	0.0
+should help	0.0
+must understand	0.0
+quite understood	0.0
+too keen	0.0
+no hard	0.0
+cannot break	0.0
+rather complex	0.0
+was so keen	0.0
+too great	0.0
+should allow	0.0
+may accept	0.0
+more help	0.0
+would be interested	0.0
+must be understood	0.0
+can complete	0.0
+would understand	0.0
+might understand	0.0
+may not know	0.0
+must help	0.0
+did not break	0.0
+could not fail	0.0
+never fail	0.0
+would have been interested	0.0
+could understand	0.0
+could not know	0.0
+should complete	0.0
+would matter	0.0
+could be understood	0.0
+not break	0.0
+would be complete	0.0
+may know	0.0
+might help	0.0
+should be complete	0.0
+really know	0.0
+could know	0.0
+not too hard	0.0
+might accept	0.0
+would be keen	0.0
+really matter	0.0
+could not break	0.0
+not hard	0.0
+can allow	0.0
+should wait	0.0
+very matter	0.0
+so help	0.0
+would not be complete	0.0
+would allow	0.0
+does not fail	0.0
+does not break	0.0
+less complex	0.0
+may be interested	0.0
+relatively short	0.0
+could help	0.0
+might wait	0.0
+relatively complex	0.0
+too interested	0.0
+can wait	0.0
+would not know	0.0
+would not fail	0.0
+must complete	0.0
+might allow	0.0
+can know	0.0
+would not break	0.0
+more complex	0.0
+may be understood	0.0
+must know	0.0
+must wait	0.0
+should accept	0.0
+should know	0.0
+less hard	0.0
+was not hard	0.0
+very short	0.0
+not wait	0.0
+cannot wait	0.0
+will not break	0.0
+was not short	0.0
+not too low	0.0
+really short	0.0
+will not matter	0.0
+no know	0.0
+could accept	0.0
+nothing short	0.0
+does not know	0.0
+no wait	0.0
+would not wait	0.0
+should be understood	0.0
+less complete	0.0
+might be hard	0.0
+may allow	0.0
+had no great	0.0
+quite short	0.0
+was so low	0.0
+less keen	0.0
+particularly complex	0.0
+may understand	0.0
+extremely short	0.0
+would have been hard	0.0
+too low	0.0
+was too low	0.0
+not accept	0.0
+did not wait	0.0
+would wait	0.0
+never allow	0.0
+did not accept	0.0
+does not matter	0.0
+not keen	0.0
+cannot know	0.0
+much hard	0.0
+would not matter	0.0
+have no great	0.0
+may be short	0.0
+not know	0.0
+does not complete	0.0
+cannot allow	0.0
+increasingly complex	0.0
+quite complex	0.0
+was very short	0.0
+may fail	0.0
+does not wait	0.0
+so complex	0.0
+was so short	0.0
+would break	0.0
+rather short	0.0
+will not understand	0.0
+was more complex	0.0
+could be hard	0.0
+cannot understand	0.0
+not understood	0.0
+will not wait	0.0
+could not allow	0.0
+will not allow	0.0
+could not accept	0.0
+was not keen	0.0
+not understand	0.0
+very complex	0.0
+too complex	0.0
+would not accept	0.0
+did not understand	0.0
+no complete	0.0
+might break	0.0
+was not interested	0.0
+would not understand	0.0
+did not know	0.0
+extremely complex	0.0
+so low	0.0
+much more complex	0.0
+would not allow	0.0
+rather hard	0.0
+does not accept	0.0
+no short	0.0
+too short	0.0
+would not help	0.0
+probably know	0.0
+does not help	0.0
+was too short	0.0
+would be hard	0.0
+should break	0.0
+can be hard	0.0
+may not understand	0.0
+never know	0.0
+highly complex	0.0
+was no great	0.0
+might fail	0.0
+would not be interested	0.0
+relatively low	0.0
+less interested	0.0
+will not know	0.0
+no help	0.0
+was not complete	0.0
+could wait	0.0
+never understand	0.0
+not short	0.0
+could fail	0.0
+would be low	0.0
+was really hard	0.0
+must break	0.0
+so short	0.0
+not too great	0.0
+quite low	0.0
+may be low	0.0
+may break	0.0
+can break	0.0
+never complete	0.0
+not very interested	0.0
+could break	0.0
+was very low	0.0
+more hard	0.0
+could not help	0.0
+will not accept	0.0
+not complete	0.0
+was no help	0.0
+not very keen	0.0
+really hard	0.0
+not help	0.0
+not allow	0.0
+was too complex	0.0
+no great	0.0
+did not matter	0.0
+most complex	0.0
+cannot accept	0.0
+was very hard	0.0
+could not understand	0.0
+not great	0.0
+will not be complete	0.0
+very hard	0.0
+was not understood	0.0
+very very low	0.0
+very low	0.0
+may not help	0.0
+was not great	0.0
+cannot help	0.0
+would be very hard	0.0
+did not allow	0.0
+did not help	0.0
+so hard	0.0
+did not complete	0.0
+does not understand	0.0
+will not help	0.0
+quite hard	0.0
+too hard	0.0
+was too hard	0.0
+should fail	0.0
+never understood	0.0
+increasingly hard	0.0
+can fail	0.0
+extremely low	0.0
+may be hard	0.0
+must be hard	0.0
+fairly expensive	-0.197375320224904
+never lose	-0.2605204458355026
+pretty serious	-0.3252436743401652
+will not lose	-0.37994896225522484
+cannot lose	-0.37994896225522484
+would not lose	-0.37994896225522484
+did not lose	-0.37994896225522484
+does not lose	-0.37994896225522484
+not lose	-0.37994896225522484
+could not lose	-0.37994896225522484
+could lose	-0.37994896225522484
+might lose	-0.37994896225522484
+may lose	-0.37994896225522484
+can lose	-0.37994896225522484
+would lose	-0.37994896225522484
+should lose	-0.37994896225522484
+must lose	-0.37994896225522484
+pretty stupid	-0.5098299737352566
+have no doubt	-0.5370495669980353
+was no trouble	-0.5370495669980353
+had no trouble	-0.5370495669980353
+was no doubt	-0.5370495669980353
+have no trouble	-0.5370495669980353
+no poor	-0.5370495669980353
+had no doubt	-0.5370495669980353
+extremely expensive	-0.5370495669980353
+no wrong	-0.5827829453479101
+certainly need	-0.5882592563981054
+does not doubt	-0.7162978701990244
+could doubt	-0.7162978701990244
+did not doubt	-0.7162978701990244
+may doubt	-0.7162978701990244
+can doubt	-0.7162978701990244
+rather doubt	-0.7162978701990244
+not trouble	-0.7162978701990245
+did not trouble	-0.7162978701990245
+not expensive	-0.7162978701990245
+less trouble	-0.7162978701990245
+does not trouble	-0.7162978701990245
+will not trouble	-0.7162978701990245
+less expensive	-0.7162978701990245
+more expensive	-0.7162978701990245
+quite expensive	-0.7162978701990245
+relatively expensive	-0.7162978701990245
+would be expensive	-0.7162978701990245
+rather expensive	-0.7162978701990245
+quite poor	-0.7162978701990245
+was more expensive	-0.7162978701990245
+relatively poor	-0.7162978701990245
+was more trouble	-0.7162978701990245
+more trouble	-0.7162978701990245
+never lost	-0.7321442233518526
+will not be difficult	-0.7615941559557649
+was not difficult	-0.7615941559557649
+was not wrong	-0.7615941559557649
+would not be difficult	-0.7615941559557649
+less difficult	-0.7615941559557649
+nothing wrong	-0.7615941559557649
+would be wrong	-0.7615941559557649
+not wrong	-0.7615941559557649
+would have been difficult	-0.7615941559557649
+quite difficult	-0.7615941559557649
+can be difficult	-0.7615941559557649
+was more difficult	-0.7615941559557649
+can be wrong	-0.7615941559557649
+never hurt	-0.7615941559557649
+must be difficult	-0.7615941559557649
+would be difficult	-0.7615941559557649
+might be difficult	-0.7615941559557649
+could be wrong	-0.7615941559557649
+may be wrong	-0.7615941559557649
+relatively difficult	-0.7615941559557649
+could be difficult	-0.7615941559557649
+probably wrong	-0.7615941559557649
+may be difficult	-0.7615941559557649
+quite wrong	-0.7615941559557649
+must be wrong	-0.7615941559557649
+was quite difficult	-0.7615941559557649
+more wrong	-0.7615941559557649
+no ill	-0.8336546070121552
+not too expensive	-0.874053287886007
+most expensive	-0.874053287886007
+really expensive	-0.874053287886007
+highly expensive	-0.874053287886007
+much more expensive	-0.874053287886007
+was too expensive	-0.874053287886007
+was very expensive	-0.874053287886007
+so expensive	-0.874053287886007
+very expensive	-0.874053287886007
+was too poor	-0.874053287886007
+too expensive	-0.874053287886007
+too poor	-0.874053287886007
+particularly poor	-0.874053287886007
+much doubt	-0.874053287886007
+very poor	-0.874053287886007
+will not be lost	-0.8853516482022625
+not dangerous	-0.8853516482022625
+was not lost	-0.8853516482022625
+will not upset	-0.8853516482022625
+not upset	-0.8853516482022625
+was not dangerous	-0.8853516482022625
+might upset	-0.8853516482022625
+does not upset	-0.8853516482022625
+should be lost	-0.8853516482022625
+would be lost	-0.8853516482022625
+less dangerous	-0.8853516482022625
+could upset	-0.8853516482022625
+would upset	-0.8853516482022625
+may be lost	-0.8853516482022625
+may upset	-0.8853516482022625
+probably lost	-0.8853516482022625
+would have been lost	-0.8853516482022625
+might be lost	-0.8853516482022625
+more lost	-0.8853516482022625
+can be lost	-0.8853516482022625
+quite upset	-0.8853516482022625
+can upset	-0.8853516482022625
+could be lost	-0.8853516482022625
+does not hurt	-0.9051482536448664
+could not hurt	-0.9051482536448664
+not hurt	-0.9051482536448664
+did not hurt	-0.9051482536448664
+cannot hurt	-0.9051482536448664
+was very wrong	-0.9051482536448664
+could be hurt	-0.9051482536448664
+could hurt	-0.9051482536448664
+particularly difficult	-0.9051482536448664
+much more difficult	-0.9051482536448664
+would be very difficult	-0.9051482536448664
+would hurt	-0.9051482536448664
+was too difficult	-0.9051482536448664
+was very difficult	-0.9051482536448664
+was not ill	-0.9468060128462683
+not ill	-0.9468060128462683
+was no need	-0.9468060128462683
+no serious	-0.9468060128462683
+never need	-0.9468060128462683
+extremely serious	-0.9468060128462683
+had no need	-0.9468060128462683
+very very expensive	-0.9468060128462683
+must be ill	-0.9468060128462683
+could ill	-0.9468060128462683
+no need	-0.9468060128462683
+have no need	-0.9468060128462683
+was no harm	-0.9640275800758169
+really lost	-0.9704519366134539
+was too upset	-0.9704519366134539
+was really upset	-0.9704519366134539
+really upset	-0.9704519366134539
+might need	-0.9910074536781176
+would need	-0.9910074536781176
+probably need	-0.9910074536781176
+less serious	-0.9910074536781176
+will not need	-0.9910074536781176
+not serious	-0.9910074536781176
+was not serious	-0.9910074536781176
+should need	-0.9910074536781176
+may need	-0.9910074536781176
+would be serious	-0.9910074536781176
+nothing serious	-0.9910074536781176
+may not need	-0.9910074536781176
+more need	-0.9910074536781176
+could be serious	-0.9910074536781176
+more serious	-0.9910074536781176
+could need	-0.9910074536781176
+can be serious	-0.9910074536781176
+did not need	-0.9910074536781176
+not need	-0.9910074536781176
+quite serious	-0.9910074536781176
+was more serious	-0.9910074536781176
+rather serious	-0.9910074536781176
+less need	-0.9910074536781176
+was really ill	-0.9910074536781176
+was very ill	-0.9910074536781176
+never afraid	-0.9926315202011281
+was not stupid	-0.9950547536867306
+not stupid	-0.9950547536867306
+does not harm	-0.9950547536867306
+would not harm	-0.9950547536867306
+will not harm	-0.9950547536867306
+can harm	-0.9950547536867306
+rather stupid	-0.9950547536867306
+no bad	-0.9977749279342794
+not too serious	-0.9993931059399421
+most need	-0.9993931059399421
+really serious	-0.9993931059399421
+so need	-0.9993931059399421
+too need	-0.9993931059399421
+really need	-0.9993931059399421
+was very serious	-0.9993931059399421
+particularly need	-0.9993931059399421
+particularly serious	-0.9993931059399421
+most serious	-0.9993931059399421
+was too serious	-0.9993931059399421
+too serious	-0.9993931059399421
+very serious	-0.9993931059399421
+so serious	-0.9993931059399421
+much more serious	-0.9993931059399421
+was not afraid	-0.9995503664595335
+not afraid	-0.9995503664595335
+would be afraid	-0.9995503664595335
+more afraid	-0.9995503664595335
+not worse	-0.9997532108480276
+would be worse	-0.9997532108480276
+could be worse	-0.9997532108480276
+rather worse	-0.9997532108480276
+most stupid	-0.9997532108480276
+was not bad	-0.9999256621257941
+can be bad	-0.9999256621257941
+would be bad	-0.9999256621257941
+may be bad	-0.9999256621257941
+could be bad	-0.9999256621257941
+rather bad	-0.9999256621257941
+very very serious	-0.9999592018254402
+was too afraid	-0.9999932559922725
+so afraid	-0.9999932559922725
+was very afraid	-0.9999932559922725
+not too bad	-0.9999995467640771
